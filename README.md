@@ -1,8 +1,7 @@
-# Hackathon Template Github
+#NEIU-Data Science 101
 
-**2024-11-19**  **-** **2024-11-20** 
-
-Github Pages based template for hackathons
+**2025-01-25**  **-** **2025--01-26** 
+This will be a test page
 
 
 ## Instructors and Mentors
